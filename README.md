@@ -36,7 +36,7 @@
 
 ## ChatGPT 国内使用教程
 
-1. **选择镜像站**：从推荐列表中选择一个站点，例如 **[https://www.yixiaai.com/](https://www.yixiaai.com)**。
+1. **选择镜像站**：从推荐列表中选择一个站点，例如 **[www.yixiaai.com](https://www.yixiaai.com)**。
 2. **快速使用**：无需注册，按照提示使用微信扫码即可。
 3. **选择 ChatGPT 模型**：根据需求，切换选择 GPT-4、GPT-3.5 或 GPT-4o、o1 模型。
 4. **智能对话**：在聊天界面输入问题或任务，即可获得对话回复。
@@ -64,9 +64,9 @@
 - 这些网站通常采用国内服务器，提供稳定且快速的访问体验，使用流畅。
 
 ### 7. 哪些站点适合新手？
-- [https://www.yixiaai.com/](https://www.yixiaai.com)：非常适合新手使用。
-- [https://chat.lify.vip](https://chat.lify.vip)：功能丰富，适合有更高需求的用户。
-- [https://guide1.lanjing.ai](https://guide1.lanjing.ai)：专为创意工作者设计。
+- [www.yixiaai.com](https://www.yixiaai.com)：非常适合新手使用。
+- [chat.lify.vip](https://chat.lify.vip)：功能丰富，适合有更高需求的用户。
+- [guide1.lanjing.ai](https://guide1.lanjing.ai)：专为创意工作者设计。
 
 如有其他疑问，欢迎随时联系！
 
