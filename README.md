@@ -26,11 +26,11 @@
 
 ## 国内推荐的 ChatGPT 镜像网站：
 
-- [https://www.yixiaai.com/](www.yixiaai.com) - **ChatGPT 镜像网站**，支持 GPT-4、4o 以及 o1，支持 AI绘画、AI助手、AI插件、AI PPT~
-- [https://chat.lify.vip](chat.lify.vip) - **ChatGPT 中文版**，支持 GPT-4、4o 以及 o1、o1 pro，支持 AI写作、AI编程、AI办公等场景
-- [https://yixiaai.cn](yixiaai.cn) - **AI工具站**，不仅 ChatGPT，还有各种AI工具，你想要的，这儿都有~
-- [https://ai.lansejingyu.com](ai.lansejingyu.com) - **GPT-4 镜像站**，支持 GPT-4、4o，支持 MJ 绘画
-- [https://lanjing.ai](lanjing.ai) - **免费的ChatGPT**，支持 GPT-4、4o 和 4o mini
+- [www.yixiaai.com](https://www.yixiaai.com) - **ChatGPT 镜像网站**，支持 GPT-4、4o 以及 o1，支持 AI绘画、AI助手、AI插件、AI PPT~
+- [chat.lify.vip](https://chat.lify.vip) - **ChatGPT 中文版**，支持 GPT-4、4o 以及 o1、o1 pro，支持 AI写作、AI编程、AI办公等场景
+- [yixiaai.cn](https://yixiaai.cn) - **AI工具站**，不仅 ChatGPT，还有各种AI工具，你想要的，这儿都有~
+- [ai.lansejingyu.com](https://ai.lansejingyu.com) - **GPT-4 镜像站**，支持 GPT-4、4o，支持 MJ 绘画
+- [lanjing.ai](https://lanjing.ai) - **免费的ChatGPT**，支持 GPT-4、4o 和 4o mini
 
 ---
 
